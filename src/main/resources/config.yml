@@ -1,0 +1,26 @@
+debug: false
+
+fake-ban:
+  reason: "Griefing"
+  appeal-url: "mc.example.com"
+  block-reconnect-seconds: 15
+
+fake-lag:
+  block-break-fail-chance: 65
+  attack-fail-chance: 55
+  setback-min-interval-ticks: 15
+  setback-max-interval-ticks: 40
+  setback-min-steps-back: 5
+  setback-max-steps-back: 12
+  ping-spike-chance: 40
+  ping-spike-min: 500
+  ping-spike-max: 2000
+
+random-tp:
+  radius: 1000
+
+spam-sounds:
+  interval-ticks: 5
+
+crash:
+  leaf: "§5§o§l§k§mcwashcwashcwashcwash"

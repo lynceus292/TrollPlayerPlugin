@@ -1,0 +1,18 @@
+name: TrollPlayer
+description: $description
+version: '${version}'
+
+main: ru.lynceus.trollplayer.TrollPlayer
+api-version: '1.21'
+load: POSTWORLD
+
+commands:
+  troll:
+    description: Troll a player.
+    usage: /troll <player> <action>
+    permission: trollplayer.use
+
+permissions:
+  trollplayer.use:
+    description: Allows use of the /troll command.
+    default: op
