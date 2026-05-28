@@ -5,7 +5,7 @@
 [![Java](https://img.shields.io/badge/Java-21%2B-orange.svg)](https://www.oracle.com/java/)
 [![License](https://img.shields.io/badge/License-Open%20Source-brightgreen.svg)](#)
 
-The ultimate troll toolkit for **Paper 1.21+** Minecraft servers. Crash, freeze, and bamboozle your players—all managed seamlessly through a single command. 
+The ultimate troll toolkit for **Paper 1.21+** (works on 26.1+) Minecraft servers. Crash, freeze, and bamboozle your players—all managed seamlessly through a single command. 
 
 *Designed strictly for server administrators looking to play lighthearted jokes on their player base.*
 
